@@ -14,7 +14,7 @@ Woflow Auto Refresh Tool is a Chrome extension that allows users to automaticall
 - **Toast Notifications** – Provides user feedback when refresh actions occur.
 
 ## Installation
-1. Download or clone the project. [Link](https://example.com)
+1. Download [Link](https://github.com/jsildura/Woflow-Auto-Refresher-Tool-Unofficial/raw/refs/heads/main/Auto%20Refresh%20Tool.zip) or clone the project.
 
 2. Unzip the file
 3. Open Chrome and navigate to `chrome://extensions/`. for edge `edge://extensions/`
