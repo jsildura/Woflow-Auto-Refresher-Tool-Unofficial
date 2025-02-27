@@ -38,45 +38,45 @@ Woflow Auto Refresh Tool is a Chrome extension that allows users to automaticall
 Created by **Joe Sildura**.
 
 ## Future Enhancements
-- Performance Monitor Feature
-,Implementation:
+- Performance Monitor Feature -
+Implementation:
 Display real-time metrics (e.g., CPU and memory usage) in the popup.
 Use chrome.system.cpu and chrome.system.memory APIs to gather data.
 
-- Keyboard Shortcuts Feature
-,Implementation:
+- Keyboard Shortcuts Feature -
+Implementation:
 Add keyboard shortcuts (e.g., Enter to start, Ctrl + S to stop, and Del to reset).
 Use chrome.commands to define and handle shortcuts.
 
-- Customizable UI Feature
-,Implementation:
+- Customizable UI Feature -
+Implementation:
 Add a settings page where users can customize random colors and font sizes.
 Use CSS variables to apply custom styles dynamically.
 
-- Feedback or Report Issue Feature
-,Implementation:
+- Feedback or Report Issue Feature -
+Implementation:
 Add a "Feedback" button that opens a form or email client.
 Use chrome.tabs.create to open a feedback page.
 
-- Donate" or "Support" Button
-,Implementation:
+- Donate" or "Support" Button -
+Implementation:
 Add a "Donate" button that links to a donation page.
 Use chrome.tabs.create to open the donation page.
 
-- User Guide or Tooltips Feature
-,Implementation:
+- User Guide or Tooltips Feature -
+Implementation:
 Add a "Help" button that opens a user guide or tooltips.
 Use chrome.tabs.create to open a guide in a new tab.
 
-- Visual Timer on the Webpage
-,Implementation:
+- Visual Timer on the Webpage -
+Implementation:
 Show a countdown timer overlay on the webpage indicating when the next refresh will occur.
 Make this feature optional by adding a toggle button in the UI.
 
-- Bypass Cache Feature
-,Implementation:
+- Bypass Cache Feature -
+Implementation:
 Implement a toggle button in the UI to enable or disable cache bypass.
 
-- Track Refresh Count & Interval Display in Sidebar
-,Implementation:
+- Track Refresh Count & Interval Display in Sidebar -
+Implementation:
 Display the total refresh count and the current interval in the sidebar menu per active url tab.
