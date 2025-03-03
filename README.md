@@ -19,7 +19,7 @@ Woflow Auto Refresh Tool is a Chrome extension that allows users to automaticall
 - **Moving Gradient Background** – Enhances guide.html with a dynamic UI effect.
   
 ## Installation
-1. Download [Link](https://github.com/user-attachments/files/19018545/Auto.Refresh.Tool.v1.3.zip) or clone the project.
+1. Download [Link](https://github.com/user-attachments/files/19051782/Auto.Refresh.Tool.v1.4.zip) or clone the project.
 
 2. Unzip the file
 3. Open Chrome and navigate to `chrome://extensions/`. for edge `edge://extensions/`
