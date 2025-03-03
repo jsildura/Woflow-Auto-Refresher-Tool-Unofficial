@@ -13,7 +13,7 @@ Woflow Auto Refresh Tool is a Chrome extension that allows users to automaticall
 - **Background Service Worker** – Runs efficiently in the background using Chrome's latest Manifest V3 standards.
 - **Toast Notifications** – Provides user feedback when refresh actions occur.
 - **Tab URL Monitoring** - Automatically starts, stops, or resets the visual timer based on user navigation.
-- **Visual Timer** - Countdown timer in the toolbar, turning red when ≤ 180 seconds.
+- **Visual Timer** - Countdown timer in the toolbar, turning red when ≤ 3 minutes.
 - **Performance Monitor** – Tracks CPU and memory usage in real-time with stats in the sliding menu
 - **Interval Validation** – Enforces valid refresh intervals, disables the start button function if invalid.
 - **Moving Gradient Background** – Enhances guide.html with a dynamic UI effect.
