@@ -104,6 +104,9 @@ Use chrome.tabs.create to open the donation page.
 Implementation:
 Implement a toggle button in the UI to enable or disable cache bypass.
 
+## License 📄
+This project is licensed under the MIT License.
+- See the [LICENSE](https://github.com/jsildura/Woflow-Auto-Refresher-Tool-Unofficial/blob/main/LICENSE) file for full details.
 
 ## Developer - Joe Sildura
 - 📧 Contact: sildura.joelito.t@gmail.com
