@@ -1,4 +1,5 @@
 # Woflow-Auto-Refresher-Unofficial
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jsildura/Woflow-Auto-Refresher-Tool-Unofficial/blob/main/LICENSE)
 
 ## Overview
 Woflow Auto Refresh Tool is a Chrome extension that allows users to automatically refresh browser tabs at specified intervals. It is designed to enhance productivity by eliminating the need for manual refreshes, ensuring up-to-date content at all times.
