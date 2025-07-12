@@ -18,7 +18,7 @@ Woflow Auto Refresh Tool is a Chrome extension that allows users to automaticall
 ## Installation
 
 ## Chrome/Edge/Brave
-1. Download [Link](https://github.com/user-attachments/files/21173814/Auto_Refresh_Tool_1.4.4.zip)
+1. Download [Link](https://github.com/user-attachments/files/21194561/Auto_Refresh_Tool_1.4.4.zip)
 2. Unzip the file
 3. Open Chrome and navigate to `chrome://extensions/`. for edge `edge://extensions/`
 4. Enable "Developer mode" (chrome: top right corner), (edge: Bottom left corner).
